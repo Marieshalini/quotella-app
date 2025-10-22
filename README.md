@@ -41,7 +41,3 @@ Routing: React Router for navigating between home and "Your Quotes" pages.
 Event Handling: Handling form submissions, button clicks, and quote sharing.
 Styling: Tailwind CSS with Poppins font, soft shadows, and rounded containers.
 
-Submission
-
-Zip the quote-app folder and submit.
-Ensure the app runs without errors and all features work as described.
